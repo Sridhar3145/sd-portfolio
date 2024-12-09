@@ -1,0 +1,17 @@
+body{
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+  }
+  
+
+  .banner{
+    background-image: url("/images/banner1.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+    }
+.sd-cls{
+  width: 100px;
+  height: 125px;
+}
